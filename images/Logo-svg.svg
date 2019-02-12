@@ -1,0 +1,21 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="rotate(-37.42388153076172 187.9309844970703,83.18866729736328) matrix(4.083333492279053,0,0,4.012083747373061,-467.1250240802765,-122.02314586511622) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="59.434488" x="153.765306" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#7DD8B5"/>
+  <text stroke="#000" transform="rotate(4.669689178466797 314.1718750000002,90.61289978027332) matrix(5.796252727508545,0,0,4.015738436834852,-1692.3277983218431,-259.1641941054633) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="95.4375" x="339.5" stroke-opacity="null" stroke-width="0" fill="#FFB27C"/>
+  <ellipse ry="61" rx="195.5" id="svg_7" cy="206.4375" cx="235" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#A98E49"/>
+  <text stroke="#000" transform="rotate(9.273092269897461 101.24615478515595,175.31283569335943) matrix(5.178688300580335,0,0,4.026250957058199,-571.0932351251149,-698.9498135131712) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="225.4375" x="122.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#546433">F</text>
+  <text stroke="#000" transform="matrix(4.513888716697692,0,0,4.84255040630287,-632.840244114399,-625.7144185313791) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="160.900238" x="189.241539" stroke-opacity="null" stroke-width="0" fill="#7DD8B5">R</text>
+  <text stroke="#000" transform="rotate(35.680259704589844 434.61068725585926,173.80549621582028) matrix(5.60233186156022,0,0,4.63285697493918,-1380.0196095902984,-664.5244582084582) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="189.34268" x="315.97563" stroke-opacity="null" stroke-width="0" fill="#FFB27C">A</text>
+  <ellipse stroke="#000" ry="3.5" rx="3" id="svg_14" cy="203.9375" cx="93.5" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <ellipse stroke="#000" ry="2" rx="3" id="svg_15" cy="154.4375" cx="307.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+ </g>
+</svg>
